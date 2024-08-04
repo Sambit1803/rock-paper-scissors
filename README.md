@@ -1,4 +1,4 @@
-# Rock Paper Scissors Game
+# Rock Paper Scissors Game [LINK](https://sambit1803.github.io/rock-paper-scissors/)
 
 **Table of Contents**
 
