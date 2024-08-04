@@ -27,9 +27,3 @@ This project is a simple implementation of the classic Rock Paper Scissors game 
 ## Author
 
 Sambit Pati [LinkedIn](https://www.linkedin.com/in/sambit-pati)
-
-1. Clone the repository:
-
-   ```sh
-   git clone https://github.com/your-username/rock-paper-scissors.git
-   cd rock-paper-scissors
